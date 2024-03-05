@@ -1,0 +1,18 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Directory listing for /backend-2021-master/tedx/settings/</title>
+</head>
+<body>
+<h1>Directory listing for /backend-2021-master/tedx/settings/</h1>
+<hr>
+<ul>
+<li><a href="__init__.py">__init__.py</a></li>
+<li><a href="development.py">development.py</a></li>
+<li><a href="production.py">production.py</a></li>
+<li><a href="staging.py">staging.py</a></li>
+</ul>
+<hr>
+</body>
+</html>

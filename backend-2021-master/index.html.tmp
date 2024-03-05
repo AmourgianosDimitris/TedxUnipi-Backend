@@ -1,0 +1,24 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Directory listing for /backend-2021-master/</title>
+</head>
+<body>
+<h1>Directory listing for /backend-2021-master/</h1>
+<hr>
+<ul>
+<li><a href=".gitignore">.gitignore</a></li>
+<li><a href="data.json">data.json</a></li>
+<li><a href="it_scripts/">it_scripts/</a></li>
+<li><a href="main_site/">main_site/</a></li>
+<li><a href="manage.py">manage.py</a></li>
+<li><a href="Pipfile">Pipfile</a></li>
+<li><a href="Pipfile.lock">Pipfile.lock</a></li>
+<li><a href="README.md">README.md</a></li>
+<li><a href="tedx/">tedx/</a></li>
+<li><a href="uwsgi.ini">uwsgi.ini</a></li>
+</ul>
+<hr>
+</body>
+</html>

@@ -1,0 +1,41 @@
+ssh thanos@159.65.126.88 -i .\.ssh\tedxunipi-thanos
+
+### Python Virtual Environment ###
+activate:
+	source tutorial-env/bin/activate
+
+deactivate:
+	deactivate
+### Backup SQL DB ###
+
+mysql -u tedxunipi -p
+
+1) In the backup folder
+
+2) mysqldump -u tedxunipi -p tedxunipi > 25-Nov-2021.sql
+
+
+### Deploying Backend ###
+
+1) eval ssh-agent
+
+2) ssh-add ~/.ssh/gitlab
+
+3) git pull
+
+4) source ./venv/bin/activate
+
+5) cd tedx
+
+6) export DJANGO_SETINGS_MODULE="tedx.settings.production" 
+
+7) cd tedxcd
+
+😎 python manage.py migrate
+
+9) sudo service uwsgi restart
+
+-------------------------------
+
+password : karadina
+sudo password : k@r@d1n@
